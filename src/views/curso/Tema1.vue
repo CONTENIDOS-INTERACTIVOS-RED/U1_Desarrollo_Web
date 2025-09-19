@@ -214,6 +214,9 @@
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://webhistorian.github.io/" target="_blank" rel="noopener noreferrer") Web Historian Descripción: Extensión que visualiza tu historial de navegación como gráficos interactivos, permitiendo analizar cómo navegas la web. Totalmente cliente, código abierto.
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.chronozoom.com" target="_blank" rel="noopener noreferrer") ChronoZoom Descripción: Simulador interactivo de líneas de tiempo (Big History), ideal para explorar el desarrollo de la web desde perspectivas históricas amplias.
 
 
 
