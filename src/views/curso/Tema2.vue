@@ -174,7 +174,8 @@
               img(src="@/assets/curso/tema2/16.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 La simplicidad arquitectónica de los sitios estáticos también resulta en mayor seguridad, dado que la ausencia de procesamiento del lado del servidor elimina muchas vulnerabilidades comunes como inyección SQL, ataques de scripting del lado del servidor, y compromiso de bases de datos.
-        p La simplicidad arquitectónica de los sitios estáticos también resulta en mayor seguridad, dado que la ausencia de procesamiento del lado del servidor elimina muchas vulnerabilidades comunes como inyección SQL, ataques de scripting del lado del servidor, y compromiso de bases de datos.
+        p Así mismo, los sitios estáticos destacan por su facilidad de mantenimiento y escalabilidad, ya que su estructura simple permite actualizaciones rápidas mediante la modificación directa de archivos, sin necesidad de gestionar bases de datos o lógica compleja del servidor. Esto facilita la integración con herramientas modernas de desarrollo como generadores de sitios estáticos y flujos de trabajo basados en control de versiones, lo que mejora la colaboración entre equipos y reduce la probabilidad de errores.
+
     
     .bg-full-width.bg-fondo-slider.mb-5
       .p-4.p-md-5
